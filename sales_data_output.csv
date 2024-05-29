@@ -1,0 +1,10 @@
+id,sale_date,product_id,product_name,quantity,unit_price
+1,2024-05-20,1,Widget A,5,20.00
+2,2024-05-20,2,Widget B,2,40.00
+3,2024-05-20,3,Widget C,7,30.00
+4,2024-05-21,1,Widget A,3,20.00
+5,2024-05-21,2,Widget B,4,40.00
+6,2024-05-21,3,Widget C,2,30.00
+7,2024-05-22,1,Widget A,8,20.00
+8,2024-05-22,2,Widget B,1,40.00
+9,2024-05-22,3,Widget C,5,30.00
